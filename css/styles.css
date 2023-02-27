@@ -569,14 +569,14 @@ background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7) 
   margin: -1px;
 }
 
-/* ========== */
+
 .container {
-  width: 1158px;
+  width: 458px;
   padding-left: 15px;
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
-}
+} 
 
 .text-center {
   text-align: center;
