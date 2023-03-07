@@ -397,7 +397,7 @@ button {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url('./hero-image.jpg');
+    url('./people-office-mobile.jpg');
   text-align: center;
 }
 
@@ -874,6 +874,7 @@ button {
 .card-descript {
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-weight: 500;
   color: var(--slate-color);
   margin-top: 8px;
 }
