@@ -219,6 +219,13 @@ button {
     display: none;
   }
 
+  .card-descript {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+  font-weight: 500;
+    color: var(--slate-color);
+    margin-top: 8px;}
+
   .contacts {
     display: none;
   }
@@ -401,6 +408,7 @@ button {
   text-align: center;
 }
 
+
 .hero-title {
   max-width: 320px;
   margin-left: auto;
@@ -527,7 +535,7 @@ button {
     flex-wrap: wrap;
     gap: 72px 24px;
   }
-
+  
   .features-card-item {
     width: 356px;
   }
@@ -541,7 +549,7 @@ button {
   .features-card-items {
     gap: 24px;
   }
-
+  
   .thumb {
     width: 264px;
     height: 112px;
@@ -699,6 +707,7 @@ button {
     margin-left: auto;
     margin-right: auto;
   }
+  
 
   .customer-link {
     width: 168px;
@@ -778,6 +787,12 @@ button {
   .filter-btn {
     padding: 12px 24px;
   }
+  .card-descript {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+  /* font-weight: 500; */
+    color: var(--slate-color);
+    margin-top: 8px;
 }
 /* ==================== Filter ==================== */
 
@@ -874,7 +889,7 @@ button {
 .card-descript {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-weight: 500;
+/* font-weight: 500; */
   color: var(--slate-color);
   margin-top: 8px;
 }
